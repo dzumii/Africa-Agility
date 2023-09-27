@@ -1,1 +1,1 @@
-# Notebooks for Africa Agility Girls In Tech Bootcamp Cohort 6
+# Notebooks for claases taught at Africa Agility Girls In Tech Bootcamp Cohort 6
